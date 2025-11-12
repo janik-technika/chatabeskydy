@@ -1,0 +1,12 @@
+{
+  "mainSeason": {
+    "weekend": 2501,
+    "weekday": 2000
+  },
+  "offSeason": {
+    "weekend": 2200,
+    "weekday": 1800
+  },
+  "mainSeasonMonths": "červenec, srpen",
+  "offSeasonMonths": "leden-červen, září-prosinec"
+}
