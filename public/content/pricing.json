@@ -1,7 +1,7 @@
 {
   "mainSeason": {
-    "weekend": 400,
-    "weekday": 400
+    "weekend": 500,
+    "weekday": 500
   },
   "offSeason": {
     "weekend": 400,
