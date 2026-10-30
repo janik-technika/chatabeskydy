@@ -5,7 +5,7 @@
   },
   "offSeason": {
     "weekend": 500,
-    "weekday": 500
+    "weekday": 450
   },
   "mainSeasonMonths": "červenec, srpen",
   "offSeasonMonths": "leden-červen, září-prosinec"
