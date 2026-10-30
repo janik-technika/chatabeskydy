@@ -4,7 +4,7 @@
     "weekday": 500
   },
   "offSeason": {
-    "weekend": 500,
+    "weekend": 450,
     "weekday": 450
   },
   "mainSeasonMonths": "červenec, srpen",
