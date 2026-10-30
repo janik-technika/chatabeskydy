@@ -7,6 +7,6 @@
     "weekend": 450,
     "weekday": 450
   },
-  "mainSeasonMonths": "červenec, srpen",
+  "mainSeasonMonths": "červen,červenec, srpen,září",
   "offSeasonMonths": "leden-květen, říjen-prosinec"
 }
